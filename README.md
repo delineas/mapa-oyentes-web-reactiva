@@ -8,4 +8,7 @@ Para hacerlo, necesitas hacer una Pull Request (PR). Es muy fácil y aquí te ex
 
 Introduce tus datos en una línea nueva de la siguiente tabla:
 
-<table><tbody><tr><td>Nombre</td><td>Latitud</td><td>Longitud</td><td>Twitter</td></tr><tr><td>Federica</td><td>40.801690</td><td>-6.359770</td><td>@webreactiva</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
+| Nombre   | Latitud   | Longitud   | Twitter      |
+| -------- | --------- | ---------- | ------------ |
+| Federica | 40.801690 | -6.359770  | @webreactiva |
+|          |           |            |              |
