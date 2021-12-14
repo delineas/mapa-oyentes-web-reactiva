@@ -13,6 +13,7 @@ Introduce tus datos en una línea nueva de la siguiente tabla:
 | Nombre   | Latitud   | Longitud   | Twitter      |
 | -------- | --------- | ---------- | ------------ |
 | Federica | 40.801690 | -6.359770  | @webreactiva |
+| Federica | 40.801690 | -6.359770  | @webreactiva |
 |          |           |            |              |
 
 
