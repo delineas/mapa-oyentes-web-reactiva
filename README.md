@@ -1,6 +1,8 @@
 # Mapa de oyentes de Web Reactiva
 
-Estamos recapitulando información de las personas que escuchan el podcast [Web Reactiva](https://danielprimo.io/podcast). Cuando tengamos unos cuantos, montamos un mapa.
+Estamos recapitulando información de las personas que escuchan el podcast [Web Reactiva](https://danielprimo.io/podcast). 
+
+Cuando tengamos unos cuantos montamos un mapa en directo en [twitch](https://twitch.tv/webreactiva).
 
 Añade tu posición usando latitud y longitud. Búscate aquí: [https://www.latlong.net/](https://www.latlong.net/) y copia y pega luego las coordenadas.
 
@@ -12,3 +14,6 @@ Introduce tus datos en una línea nueva de la siguiente tabla:
 | -------- | --------- | ---------- | ------------ |
 | Federica | 40.801690 | -6.359770  | @webreactiva |
 |          |           |            |              |
+
+
+Disfruta de tu primera PR y gracias por participar :)
