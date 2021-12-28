@@ -14,8 +14,8 @@ Introduce tus datos en una línea nueva de la siguiente tabla:
 | -------- | --------- | ---------- | ------------ |
 | Federica | 40.801690 | -6.359770  | @webreactiva |
 | emiliort | 43.319147 | -1.993717  |              |
+| Guillem  | 41.385063 | 2.173404   | @guillemduno |
 |          |           |            |              |
-
 
 Disfruta de tu primera PR y gracias por participar :)
 
