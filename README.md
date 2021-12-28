@@ -16,6 +16,7 @@ Introduce tus datos en una línea nueva de la siguiente tabla:
 | emiliort | 43.319147 | -1.993717  |              |
 | Guillem  | 41.385063 | 2.173404   | @guillemduno |
 | Sergi    | 41.390205 | 2.154007   | @sergioedo   |
+|Bárbaro Javier|21,79396|79.98118   | [@bjvalmaseda](httsp://twitter.com/bjvalmaseda)|
 |          |           |            |              |
 
 Disfruta de tu primera PR y gracias por participar :)
