@@ -16,6 +16,7 @@ Introduce tus datos en una línea nueva de la siguiente tabla:
 | emiliort | 43.319147 | -1.993717  |              |
 | Guillem  | 41.385063 | 2.173404   | @guillemduno |
 | Sergi    | 41.390205 | 2.154007   | @sergioedo   |
+| Jesús    | 42.462719 | -2.444985  | @goiblas     |
 |          |           |            |              |
 
 Disfruta de tu primera PR y gracias por participar :)
