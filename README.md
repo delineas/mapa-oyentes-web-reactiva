@@ -18,6 +18,7 @@ Introduce tus datos en una línea nueva de la siguiente tabla:
 | Sergi    | 41.390205 | 2.154007   | @sergioedo   |
 | Borja    | 41.583309 | -4.721730  | @niltsiar    |
 | Lorenzo  | 39.362424 | -0.412188  | @atareao     |
+|Bárbaro Javier|21,79396|79.98118   | [@bjvalmaseda](https://twitter.com/bjvalmaseda)|
 |          |           |            |              |
 
 Disfruta de tu primera PR y gracias por participar :)
