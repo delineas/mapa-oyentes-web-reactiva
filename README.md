@@ -1,6 +1,6 @@
 # Mapa de oyentes de Web Reactiva
 
-Estamos recapitulando información de las personas que escuchan el podcast [Web Reactiva](https://danielprimo.io/podcast). 
+Estamos recapitulando información de las personas que escuchan el podcast [Web Reactiva](https://danielprimo.io/podcast).
 
 Cuando tengamos unos cuantos montamos un mapa en directo en [twitch](https://twitch.tv/webreactiva).
 
@@ -17,6 +17,8 @@ Introduce tus datos en una línea nueva de la siguiente tabla:
 | Guillem  | 41.385063 | 2.173404   | @guillemduno |
 | Sergi    | 41.390205 | 2.154007   | @sergioedo   |
 | Borja    | 41.583309 | -4.721730  | @niltsiar    |
+| Lorenzo  | 39.362424 | -0.412188  | @atareao     |
+|          |           |            |              |
 
 Disfruta de tu primera PR y gracias por participar :)
 
