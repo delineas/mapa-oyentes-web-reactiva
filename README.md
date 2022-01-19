@@ -20,6 +20,7 @@ Introduce tus datos en una línea nueva de la siguiente tabla:
 | Lorenzo  | 39.362424 | -0.412188  | @atareao     |
 |Bárbaro Javier|21,79396|79.98118   | [@bjvalmaseda](https://twitter.com/bjvalmaseda)|
 | Tony     | 23.041519 | -81.577492 |              |
+| Miguel   | 36.741901 | -4.094240  | @migohe14    |
 |          |           |            |              |
 
 Disfruta de tu primera PR y gracias por participar :)
