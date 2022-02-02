@@ -22,6 +22,7 @@ Introduce tus datos en una línea nueva de la siguiente tabla:
 | Tony     | 23.041519 | -81.577492 |              |
 | Miguel   | 36.741901 | -4.094240  | @migohe14    |
 | Jesús    | 42.462719 | -2.444985  | @goiblas     |
+| Jose Antonio | 38.57858 | -0.10024 | @j0sm3n      |
 |          |           |            |              |
 
 Disfruta de tu primera PR y gracias por participar :)
