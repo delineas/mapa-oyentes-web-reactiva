@@ -12,17 +12,17 @@ Introduce tus datos en una línea nueva de la siguiente tabla:
 
 | Nombre   | Latitud   | Longitud   | Twitter      |
 | -------- | --------- | ---------- | ------------ |
-| Federica | 40.801690 | -6.359770  | @webreactiva |
+| Federica | 40.801690 | -6.359770  | [@webreactiva](https://twitter.com/webreactiva) |
 | emiliort | 43.319147 | -1.993717  |              |
-| Guillem  | 41.385063 | 2.173404   | @guillemduno |
-| Sergi    | 41.390205 | 2.154007   | @sergioedo   |
-| Borja    | 41.583309 | -4.721730  | @niltsiar    |
-| Lorenzo  | 39.362424 | -0.412188  | @atareao     |
+| Guillem  | 41.385063 | 2.173404   | [@guillemduno](https://twitter.com/guillemduno) |
+| Sergi    | 41.390205 | 2.154007   | [@sergioedo](https://twitter.com/sergioedo)   |
+| Borja    | 41.583309 | -4.721730  | [@niltsiar](https://twitter.com/niltsiar)    |
+| Lorenzo  | 39.362424 | -0.412188  | [@atareao](https://twitter.com/atareao)     |
 |Bárbaro Javier|21,79396|79.98118   | [@bjvalmaseda](https://twitter.com/bjvalmaseda)|
 | Tony     | 23.041519 | -81.577492 |              |
-| Miguel   | 36.741901 | -4.094240  | @migohe14    |
-| Jesús    | 42.462719 | -2.444985  | @goiblas     |
-|          |           |            |              |
+| Miguel   | 36.741901 | -4.094240  | [@migohe14](https://twitter.com/migohe14)    |
+| Jesús    | 42.462719 | -2.444985  | [@goiblas](https://twitter.com/goiblas)     |
+| wladimir |-12.164369 | -76.983839 | [@ajwipo](https://twitter.com/ajwipo)      |
 
 Disfruta de tu primera PR y gracias por participar :)
 
